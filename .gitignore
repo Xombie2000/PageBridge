@@ -1,0 +1,12 @@
+.DS_Store
+.build/
+.swiftpm/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+
+# App Store and signing artifacts are local-only.
+AppStore/*.xcarchive/
+AppStore/Export/
+AppStore/ExportOptions.plist
+AppStore/*.png

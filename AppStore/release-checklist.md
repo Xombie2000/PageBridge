@@ -1,0 +1,23 @@
+# PageBridge release checklist
+
+- [x] Example app bundle identifier: `com.example.PageBridge`
+- [x] Example extension identifier: `com.example.PageBridge.Extension`
+- [x] App Sandbox enabled for app and extension
+- [x] Mac App Store category declared as Utilities
+- [x] No analytics, ads, accounts, third-party SDKs, or custom network service
+- [x] In-app privacy disclosure
+- [x] Store description, privacy draft, and review instructions prepared
+- [ ] Confirm identifiers are available in the seller’s Apple Developer account
+- [ ] Confirm seller name and copyright
+- [ ] Publish support page and privacy policy, then add their public URLs
+- [ ] Create the app record in App Store Connect
+- [ ] Confirm $2.99 US price and territorial equivalents
+- [ ] Complete tax, banking, and Paid Applications agreement
+- [x] Capture a 2560×1600 Mac screenshot showing PageBridge translating Nitori
+- [x] Create a signed Release archive
+- [ ] Activate an Apple Developer Program team with an App Store Connect provider and permission to create Mac App Store profiles
+- [ ] Create or allow Xcode to manage Mac App Distribution and Mac Installer Distribution certificates
+- [ ] Distribute the archive with Apple Distribution signing and upload through Xcode Organizer
+- [ ] Complete age rating, privacy, encryption, accessibility, and territory questionnaires
+- [ ] Test the uploaded build through TestFlight
+- [ ] Add the build to the macOS version and submit it for App Review

@@ -1,0 +1,7 @@
+{
+  "name": "autoenglish-tests",
+  "private": true,
+  "scripts": {
+    "test": "node --test Tests/JavaScript/*.test.js"
+  }
+}
